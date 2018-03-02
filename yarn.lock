@@ -47,9 +47,9 @@
   dependencies:
     tslib "^1.7.1"
 
-"@bazel/ibazel@0.2.0":
-  version "0.2.0"
-  resolved "https://registry.npmjs.org/@bazel/ibazel/-/ibazel-0.2.0.tgz#c119aef4344a789cef5e792caaee52264123e71c"
+"@bazel/ibazel@0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@bazel/ibazel/-/ibazel-0.3.1.tgz#5f02f208f138e581bbdb1534d5c013d7a0ac9799"
 
 "@types/jasmine@2.8.2":
   version "2.8.2"
