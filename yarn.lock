@@ -1293,9 +1293,9 @@ rx@2.3.24:
   version "2.3.24"
   resolved "https://registry.npmjs.org/rx/-/rx-2.3.24.tgz#14f950a4217d7e35daa71bbcbe58eff68ea4b2b7"
 
-rxjs@5.5.5:
-  version "5.5.5"
-  resolved "https://registry.npmjs.org/rxjs/-/rxjs-5.5.5.tgz#e164f11d38eaf29f56f08c3447f74ff02dd84e97"
+rxjs@5.5.11:
+  version "5.5.11"
+  resolved "https://registry.yarnpkg.com/rxjs/-/rxjs-5.5.11.tgz#f733027ca43e3bec6b994473be4ab98ad43ced87"
   dependencies:
     symbol-observable "1.0.1"
 
